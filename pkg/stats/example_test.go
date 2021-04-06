@@ -23,7 +23,7 @@ func ExampleAvg() {
 		{
 			ID:       3,
 			Amount:   52_00,
-			Category: "Cat",
+			Category: "Cats",
 			Status:   types.StatusFail,
 		},
 	}
